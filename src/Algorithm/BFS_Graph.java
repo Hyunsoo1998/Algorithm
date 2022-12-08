@@ -1,4 +1,4 @@
-
+package Algorithm;
 
 //BFS는 일반적으로 Queue를 이용하여 구현한다 .
 
